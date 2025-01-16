@@ -1,10 +1,14 @@
 # Boy
 ![boy1.jpg](./boy/boy1.jpg)
 ![boy2.png](./boy/boy2.png)
+![boy3.jpg](./boy/boy3.jpg)
+![boy4.jpg](./boy/boy4.jpg)
 
 # Girl
 ![girl10.png](./girl/girl10.png)
 ![girl11.jpg](./girl/girl11.jpg)
+![girl12.jpg](./girl/girl12.jpg)
+![girl13.jpg](./girl/girl13.jpg)
 ![girl1.png](./girl/girl1.png)
 ![girl2.png](./girl/girl2.png)
 ![girl3.png](./girl/girl3.png)
@@ -33,18 +37,25 @@
 ![material9.png](./material/material9.png)
 
 # Other
-![other1.png](./other/other1.png)
-![other2.jpg](./other/other2.jpg)
 ![other3.jpeg](./other/other3.jpeg)
-![other4.png](./other/other4.png)
 ![other5.png](./other/other5.png)
 ![other6.jpg](./other/other6.jpg)
 ![other7.png](./other/other7.png)
+![other8.png](./other/other8.png)
 
 # Pattern
 ![pattern1.jpg](./pattern/pattern1.jpg)
 ![pattern2.jpg](./pattern/pattern2.jpg)
 ![pattern3.jpg](./pattern/pattern3.jpg)
+![pattern4.jpg](./pattern/pattern4.jpg)
+![pattern5.jpg](./pattern/pattern5.jpg)
+
+# Pixel
+![pixel1.png](./pixel/pixel1.png)
+![pixel2.png](./pixel/pixel2.png)
+![pixel3.png](./pixel/pixel3.png)
+![pixel4.jpg](./pixel/pixel4.jpg)
+![pixel5.jpg](./pixel/pixel5.jpg)
 
 # Realistic
 ![realistic1.jpg](./realistic/realistic1.jpg)
@@ -65,7 +76,6 @@
 ![solid16.png](./solid/solid16.png)
 ![solid17.png](./solid/solid17.png)
 ![solid18.png](./solid/solid18.png)
-![solid19.jpg](./solid/solid19.jpg)
 ![solid1.png](./solid/solid1.png)
 ![solid20.png](./solid/solid20.png)
 ![solid21.png](./solid/solid21.png)
