@@ -32,6 +32,9 @@
 ![girl8.png](./girl/girl8.png)
 ![girl9.png](./girl/girl9.png)
 
+# Gowall-daily
+![1.png](./gowall-daily/1.png)
+
 # Isometric
 ![isometric1.png](./isometric/isometric1.png)
 ![isometric2.png](./isometric/isometric2.png)
