@@ -7,7 +7,6 @@
 # Girl
 ![girl10.png](./girl/girl10.png)
 ![girl11.png](./girl/girl11.png)
-![girl12_ascii.png](./girl/girl12_ascii.png)
 ![girl12.png](./girl/girl12.png)
 ![girl13.png](./girl/girl13.png)
 ![girl14.png](./girl/girl14.png)
@@ -28,6 +27,7 @@
 ![girl28.png](./girl/girl28.png)
 ![girl29.png](./girl/girl29.png)
 ![girl2.png](./girl/girl2.png)
+![girl30.png](./girl/girl30.png)
 ![girl3.png](./girl/girl3.png)
 ![girl4.png](./girl/girl4.png)
 ![girl5.png](./girl/girl5.png)
@@ -36,25 +36,11 @@
 ![girl8.png](./girl/girl8.png)
 ![girl9.png](./girl/girl9.png)
 
-# Gowall-daily
-![1.png](./gowall-daily/1.png)
-
-# Isometric
-![isometric1.png](./isometric/isometric1.png)
-![isometric2.png](./isometric/isometric2.png)
-![isometric3.png](./isometric/isometric3.png)
-
-# Material
-![material10.png](./material/material10.png)
-![material1.png](./material/material1.png)
-![material2.png](./material/material2.png)
-![material3.png](./material/material3.png)
-![material4.png](./material/material4.png)
-![material5.png](./material/material5.png)
-![material6.png](./material/material6.png)
-![material7.png](./material/material7.png)
-![material8.png](./material/material8.png)
-![material9.png](./material/material9.png)
+# Gradient
+![gradient1.png](./gradient/gradient1.png)
+![gradient2.png](./gradient/gradient2.png)
+![gradient3.png](./gradient/gradient3.png)
+![gradient4.png](./gradient/gradient4.png)
 
 # Other
 ![other3.png](./other/other3.png)
@@ -114,7 +100,6 @@
 ![solid23.png](./solid/solid23.png)
 ![solid24.png](./solid/solid24.png)
 ![solid25.png](./solid/solid25.png)
-![solid2(neg).png](./solid/solid2(neg).png)
 ![solid2.png](./solid/solid2.png)
 ![solid3.png](./solid/solid3.png)
 ![solid4.png](./solid/solid4.png)
